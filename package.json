@@ -18,7 +18,7 @@
   "homepage": "https://github.com/beky02/music-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nodemon": "^1.19.1"
   }
 }
